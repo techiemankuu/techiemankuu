@@ -1,34 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=200&section=header&text=Mayank%20Khandelwal&fontSize=48&fontColor=F5A623&desc=Full%20Stack%20Developer%20%7C%20Building%20Real-Time%20Systems%20for%20Intelligent%20Transportation&descSize=16&descAlignY=68&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0A0E1A&height=200&section=header&text=Mayank%20Khandelwal&fontSize=48&fontColor=FF2BD6&desc=Full%20Stack%20Developer%20%7C%20Building%20Real-Time%20Systems%20for%20Intelligent%20Transportation&descSize=16&descAlignY=68&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=1200&color=F5A623&center=true&vCenter=true&width=680&height=140&lines=%24+whoami;%3E+Mayank+Khandelwal+%E2%80%94+Full+Stack+Developer;%24+cat+currently_building.log;%3E+Real-time+Highway+Tolling+Dashboards;%24+echo+%24STACK;%3E+React.js+%2B+Node.js+%2B+Express.js+%2B+MongoDB;%24+status+--check;%3E+Open+to+SDE-1+%2F+Full+Stack+roles_" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-
-![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-0D1117?style=flat-square&labelColor=F5A623)
-![University](https://img.shields.io/badge/Chandigarh%20University-Mohali-0D1117?style=flat-square&labelColor=F5A623)
-![Location](https://img.shields.io/badge/Location-Faridabad%2C%20Haryana%2C%20India-0D1117?style=flat-square&labelColor=F5A623)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=1200&color=FF2BD6&center=true&vCenter=true&width=680&height=140&lines=%24+whoami;%3E+Mayank+Khandelwal+%E2%80%94+Full+Stack+Developer;%24+cat+currently_building.log;%3E+Real-time+Highway+Tolling+Dashboards;%24+echo+%24STACK;%3E+React.js+%2B+Node.js+%2B+Express.js+%2B+MongoDB;%24+status+--check;%3E+Open+to+SDE-1+%2F+Full+Stack+roles_" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F5A623?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://linkedin.com/in/kmayank7611)
-[![Email](https://img.shields.io/badge/Email-F5A623?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:mayankk1216@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-F5A623?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/techiemankuu)
-[![X](https://img.shields.io/badge/X%20%2F%20Twitter-F5A623?style=for-the-badge&logo=x&logoColor=0D1117)](https://x.com/MayankK1603)
-[![Instagram](https://img.shields.io/badge/Instagram-F5A623?style=for-the-badge&logo=instagram&logoColor=0D1117)](https://instagram.com/mayaank_16)
+![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-0A0E1A?style=flat-square&labelColor=FF2BD6)
+![University](https://img.shields.io/badge/Chandigarh%20University-Mohali-0A0E1A?style=flat-square&labelColor=FF2BD6)
+![Location](https://img.shields.io/badge/Location-Faridabad%2C%20Haryana%2C%20India-0A0E1A?style=flat-square&labelColor=FF2BD6)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=techiemankuu&color=F5A623&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/techiemankuu?style=flat-square&color=F5A623&label=FOLLOWERS&logo=github&logoColor=0D1117&labelColor=0D1117)
-![Stars](https://img.shields.io/badge/dynamic/json?style=flat-square&color=F5A623&label=REPOS&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftechiemankuu%2Frepos&labelColor=0D1117)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF2BD6?style=for-the-badge&logo=linkedin&logoColor=0A0E1A)](https://linkedin.com/in/kmayank7611)
+[![Email](https://img.shields.io/badge/Email-FF2BD6?style=for-the-badge&logo=gmail&logoColor=0A0E1A)](mailto:mayankk1216@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-FF2BD6?style=for-the-badge&logo=github&logoColor=0A0E1A)](https://github.com/techiemankuu)
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-FF2BD6?style=for-the-badge&logo=x&logoColor=0A0E1A)](https://x.com/MayankK1603)
+[![Instagram](https://img.shields.io/badge/Instagram-FF2BD6?style=for-the-badge&logo=instagram&logoColor=0A0E1A)](https://instagram.com/mayaank_16)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=techiemankuu&color=FF2BD6&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/techiemankuu?style=flat-square&color=FF2BD6&label=FOLLOWERS&logo=github&logoColor=0A0E1A&labelColor=0A0E1A)
+![Stars](https://img.shields.io/badge/dynamic/json?style=flat-square&color=FF2BD6&label=REPOS&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftechiemankuu%2Frepos&labelColor=0A0E1A)
 
 </div>
 
@@ -61,12 +61,12 @@ OPEN_TO    : SDE-1 · Full Stack Developer · Backend Engineer · MERN Developer
 
 <div align="center">
 
-![REST APIs](https://img.shields.io/badge/REST-APIs-0D1117?style=flat-square&labelColor=F5A623)
-![JWT Auth](https://img.shields.io/badge/JWT-Authentication-0D1117?style=flat-square&labelColor=F5A623)
-![RBAC](https://img.shields.io/badge/RBAC-Access%20Control-0D1117?style=flat-square&labelColor=F5A623)
-![Edge Computing](https://img.shields.io/badge/Edge-Computing-0D1117?style=flat-square&labelColor=F5A623)
-![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-0D1117?style=flat-square&labelColor=F5A623)
-![Agile](https://img.shields.io/badge/Agile-Development-0D1117?style=flat-square&labelColor=F5A623)
+![REST APIs](https://img.shields.io/badge/REST-APIs-0A0E1A?style=flat-square&labelColor=FF2BD6)
+![JWT Auth](https://img.shields.io/badge/JWT-Authentication-0A0E1A?style=flat-square&labelColor=FF2BD6)
+![RBAC](https://img.shields.io/badge/RBAC-Access%20Control-0A0E1A?style=flat-square&labelColor=FF2BD6)
+![Edge Computing](https://img.shields.io/badge/Edge-Computing-0A0E1A?style=flat-square&labelColor=FF2BD6)
+![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-0A0E1A?style=flat-square&labelColor=FF2BD6)
+![Agile](https://img.shields.io/badge/Agile-Development-0A0E1A?style=flat-square&labelColor=FF2BD6)
 
 </div>
 
@@ -201,8 +201,8 @@ A recommendation engine built on movie metadata and user preferences.
 
 <div align="center">
 
-![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-0D1117?style=for-the-badge&labelColor=F5A623)
-![University](https://img.shields.io/badge/Chandigarh%20University-Mohali-0D1117?style=for-the-badge&labelColor=F5A623)
+![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-0A0E1A?style=for-the-badge&labelColor=FF2BD6)
+![University](https://img.shields.io/badge/Chandigarh%20University-Mohali-0A0E1A?style=for-the-badge&labelColor=FF2BD6)
 
 </div>
 
@@ -212,10 +212,10 @@ A recommendation engine built on movie metadata and user preferences.
 
 <div align="center">
 
-![Blockchain](https://img.shields.io/badge/Infosys%20Springboard-Blockchain%20Technology-0D1117?style=flat-square&labelColor=F5A623)
-![JavaScript](https://img.shields.io/badge/LinkedIn%20Learning-JavaScript%20Development-0D1117?style=flat-square&labelColor=F5A623)
-![Python](https://img.shields.io/badge/LinkedIn%20Learning-Python%20Development-0D1117?style=flat-square&labelColor=F5A623)
-![Web Dev](https://img.shields.io/badge/Coursera-Web%20Development-0D1117?style=flat-square&labelColor=F5A623)
+![Blockchain](https://img.shields.io/badge/Infosys%20Springboard-Blockchain%20Technology-0A0E1A?style=flat-square&labelColor=FF2BD6)
+![JavaScript](https://img.shields.io/badge/LinkedIn%20Learning-JavaScript%20Development-0A0E1A?style=flat-square&labelColor=FF2BD6)
+![Python](https://img.shields.io/badge/LinkedIn%20Learning-Python%20Development-0A0E1A?style=flat-square&labelColor=FF2BD6)
+![Web Dev](https://img.shields.io/badge/Coursera-Web%20Development-0A0E1A?style=flat-square&labelColor=FF2BD6)
 
 </div>
 
@@ -225,9 +225,9 @@ A recommendation engine built on movie metadata and user preferences.
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=F5A623)](https://leetcode.com/u/mayaank_16/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=F5A623)](https://www.hackerrank.com/profile/22BCS15197)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=F5A623)](https://www.geeksforgeeks.org/profile/mayankerx7)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0A0E1A?style=for-the-badge&logo=leetcode&logoColor=FF2BD6)](https://leetcode.com/u/mayaank_16/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0A0E1A?style=for-the-badge&logo=hackerrank&logoColor=FF2BD6)](https://www.hackerrank.com/profile/22BCS15197)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0A0E1A?style=for-the-badge&logo=geeksforgeeks&logoColor=FF2BD6)](https://www.geeksforgeeks.org/profile/mayankerx7)
 
 </div>
 
@@ -237,10 +237,10 @@ A recommendation engine built on movie metadata and user preferences.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=techiemankuu&show_icons=true&theme=transparent&bg_color=0D1117&title_color=F5A623&icon_color=F5A623&text_color=FFD580&border_color=8B949E&hide_border=false" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=techiemankuu&theme=transparent&background=0D1117&stroke=8B949E&ring=F5A623&fire=F5A623&currStreakLabel=F5A623&sideLabels=FFD580&currStreakNum=FFD580&sideNums=FFD580&dates=8B949E&border=8B949E" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=techiemankuu&show_icons=true&theme=transparent&bg_color=0A0E1A&title_color=FF2BD6&icon_color=FF2BD6&text_color=00E5FF&border_color=6E7681&hide_border=false" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=techiemankuu&theme=transparent&background=0A0E1A&stroke=6E7681&ring=FF2BD6&fire=FF2BD6&currStreakLabel=FF2BD6&sideLabels=00E5FF&currStreakNum=00E5FF&sideNums=00E5FF&dates=6E7681&border=6E7681" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techiemankuu&layout=compact&theme=transparent&bg_color=0D1117&title_color=F5A623&text_color=FFD580&border_color=8B949E&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techiemankuu&layout=compact&theme=transparent&bg_color=0A0E1A&title_color=FF2BD6&text_color=00E5FF&border_color=6E7681&hide_border=false" />
 
 </div>
 
@@ -250,7 +250,7 @@ A recommendation engine built on movie metadata and user preferences.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=techiemankuu&theme=gruvbox&column=7&row=2&margin-w=8&margin-h=8&no-frame=true&no-bg=false" />
+<img src="https://github-profile-trophy.vercel.app/?username=techiemankuu&theme=radical&column=7&row=2&margin-w=8&margin-h=8&no-frame=true&no-bg=false" />
 
 </div>
 
@@ -260,7 +260,7 @@ A recommendation engine built on movie metadata and user preferences.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=techiemankuu&bg_color=0D1117&color=F5A623&line=F5A623&point=FFD580&area=true&area_color=F5A623&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=techiemankuu&bg_color=0A0E1A&color=FF2BD6&line=FF2BD6&point=00E5FF&area=true&area_color=FF2BD6&hide_border=true" />
 
 </div>
 
@@ -317,14 +317,14 @@ current_focus:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F5A623?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://linkedin.com/in/kmayank7611)
-[![Email](https://img.shields.io/badge/Email-F5A623?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:mayankk1216@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-F5A623?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/techiemankuu)
-[![X](https://img.shields.io/badge/X%20%2F%20Twitter-F5A623?style=for-the-badge&logo=x&logoColor=0D1117)](https://x.com/MayankK1603)
-[![Instagram](https://img.shields.io/badge/Instagram-F5A623?style=for-the-badge&logo=instagram&logoColor=0D1117)](https://instagram.com/mayaank_16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF2BD6?style=for-the-badge&logo=linkedin&logoColor=0A0E1A)](https://linkedin.com/in/kmayank7611)
+[![Email](https://img.shields.io/badge/Email-FF2BD6?style=for-the-badge&logo=gmail&logoColor=0A0E1A)](mailto:mayankk1216@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-FF2BD6?style=for-the-badge&logo=github&logoColor=0A0E1A)](https://github.com/techiemankuu)
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-FF2BD6?style=for-the-badge&logo=x&logoColor=0A0E1A)](https://x.com/MayankK1603)
+[![Instagram](https://img.shields.io/badge/Instagram-FF2BD6?style=for-the-badge&logo=instagram&logoColor=0A0E1A)](https://instagram.com/mayaank_16)
 
 *"Ship it, measure it, harden it — then do it again."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer&fontColor=F5A623" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0E1A&height=120&section=footer&fontColor=FF2BD6" width="100%"/>
