@@ -79,7 +79,7 @@ OPEN_TO    : SDE-1 · Full Stack Developer · Backend Engineer · MERN Developer
 | Backend Architecture | ⭐⭐⭐⭐⭐ | REST API design, Express.js service layers, modular MVC structure |
 | Database Design & Optimization | ⭐⭐⭐⭐ | MongoDB indexing & aggregation, MySQL schema design, query tuning |
 | Authentication & Security | ⭐⭐⭐⭐ | JWT-based auth, Role-Based Access Control (RBAC), secure API design |
-| Real-Time & Edge Systems | ⭐⭐⭐⭐ | Fusing live telemetry (LiDAR, RFID, ANPR, AVC) into operational dashboards |
+| Real-Time Systems | ⭐⭐⭐⭐ | Building real-time monitoring dashboards for transportation infrastructure |
 | Frontend Development | ⭐⭐⭐ | React.js component architecture, state management, responsive UI |
 | Core CS Fundamentals | ⭐⭐⭐⭐ | DSA · OOP · DBMS · Operating Systems · Computer Networks |
 
@@ -88,17 +88,15 @@ OPEN_TO    : SDE-1 · Full Stack Developer · Backend Engineer · MERN Developer
 ### `$ ls featured_projects/ --sort=recent`
 
 <details open>
-<summary><b>🛣️ TrinitySoft.AI Gantry Dashboard</b></summary>
+<summary><b>🛣️ MLFF Lane Monitoring System</b></summary>
 <br/>
 
-A local edge tolling monitoring platform that aggregates telemetry streams from highway devices — LiDAR profilers, speed radars, ANPR cameras, RFID readers, and AVC systems — into unified vehicle transaction records.
+Full-stack project currently in progress at **Rocket Science Technology**.
 
 | | |
 |--|--|
-| **Stack** | React.js · Node.js · Express.js · MongoDB · REST APIs |
-| **Scale** | Multi-device real-time telemetry aggregation (LiDAR, RFID, ANPR, AVC, speed radar) |
-| **Impact** | Enables toll operators to monitor lane activity, review vehicle classifications, detect overspeed events, and audit toll enforcement in real time |
-| **My Contribution** | End-to-end full-stack development; real-time dashboards; async telemetry processing into structured vehicle passage records; lane monitoring, classification overrides, overspeed detection, enforcement auditing |
+| **Stack** | React.js · Node.js · Express.js · MongoDB |
+| **Status** | In progress |
 
 </details>
 
@@ -300,8 +298,8 @@ A recommendation engine built on movie metadata and user preferences.
 
 ```yaml
 current_focus:
-  building: "TrinitySoft.AI Gantry Dashboard — real-time edge tolling monitoring for ITS"
-  exploring: "Edge-computing patterns for fusing live hardware telemetry into web dashboards"
+  building: "MLFF Lane Monitoring System — full stack project @ Rocket Science Technology"
+  exploring: "Real-time systems for transportation infrastructure"
   open_to:
     - Software Engineer (SDE-1)
     - Full Stack Developer
